@@ -1,4 +1,4 @@
-# customer-revenue-analysis
+# Customer-revenue-analysis
 This project analyzes customer demographics and spending patterns to identify high-value customer segments and derive business insights. The analysis was performed using Python for data preparation and exploration, and Tableau for visual storytelling and dashboard development. 
 # Customer Segmentation and Spending Behavior Analysis
 
@@ -114,5 +114,15 @@ customer-revenue-analysis/
 
 
 
-<img width="1920" height="1080" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/08c6d9e7-21ac-489e-ab77-e6f09b175971" />
+<img width="1920" height="1080" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/01da8cd7-765d-4921-9614-b7ba79ab0b64" />
+
+
+<img width="1105" height="910" alt="Screenshot 2026-03-19 170917" src="https://github.com/user-attachments/assets/3359e91e-6871-42f1-9e0b-6613df7056d2" />
+
+
+<img width="1106" height="441" alt="Screenshot 2026-03-19 172842" src="https://github.com/user-attachments/assets/b8c35c69-e305-4e55-982d-8468e978097c" />
+
+
+
+
 
